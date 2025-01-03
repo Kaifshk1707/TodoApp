@@ -98,8 +98,8 @@ const TodoScreen = () => {
           borderColor: "#90A",
           borderWidth: 1,
           borderRadius: 6,
-          paddingVertical: 16,
-          paddingHorizontal: 20,
+          paddingVertical: 8,
+          paddingHorizontal: 16,
           fontSize: 16,
           marginBottom: 12,
         }}
